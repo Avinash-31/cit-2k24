@@ -16,4 +16,4 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'CIT.settings'
 
 application = get_wsgi_application()
 
-application = cit2020
+app = 'cit2020'
